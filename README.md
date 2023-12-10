@@ -6,6 +6,7 @@ Analyzed financial statements using DAX to understand a company's financial posi
 
 Produced visuals to effectively communicate financial insights  
 
+
 **Steps**
 
 1- Power Query to clean imported data
